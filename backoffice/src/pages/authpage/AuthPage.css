@@ -1,0 +1,12 @@
+.container{
+   margin: auto;
+    width: 50vw;
+}
+.text_liens{
+text-decoration: underline;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+}

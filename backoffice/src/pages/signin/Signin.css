@@ -1,0 +1,59 @@
+.bg_dark {
+  background-color: #323232;
+}
+
+.container {
+  margin: auto;
+  width: 50vw;
+
+}
+
+.text_seConnecter {
+
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.text_explication {
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.input_singin {
+  border-radius: 7px;
+  border: 2px solid #EEEEEE;
+  width: 100%;
+  margin-top: 2px;
+  box-shadow: 0px 7px 10px -13.07571029663086px #00000008;
+
+}
+
+
+.text_liens {
+  text-decoration: underline;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.text_icons {
+
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}

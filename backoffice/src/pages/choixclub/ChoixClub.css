@@ -1,0 +1,30 @@
+.butonC_Club {
+    border: 3px solid #323232;
+}
+
+.text_seConnecterClub {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.text_ClubChoix{
+font-size: 18px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    top: 319px;
+    left: 718px;
+    border-radius: 8px;
+    background: #13C14F;
+     
+}

@@ -1,0 +1,26 @@
+.container {
+    background-color: white;
+    margin: auto;
+    width: 50vw;
+}
+
+.text_condition {
+
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+
+}
+
+.text_conditionSpan {
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+.logoDashbord{
+  width: 120px;
+  height: 120px;
+}
+.text_logoDashbord{
+  
+font-size: 26px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.link_dashbord{
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+}
